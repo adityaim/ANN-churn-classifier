@@ -1,1 +1,1 @@
-# ANN-churn-classifier
+# ANN-churn-prediction
